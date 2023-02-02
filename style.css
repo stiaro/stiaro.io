@@ -2,6 +2,12 @@ body {
     background: #3C6255;
 }
 
+h1 {
+    font-family: forma-djr-display, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
 .center p {
     margin       : 0;
     position     : absolute;
