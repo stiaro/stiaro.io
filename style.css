@@ -1,0 +1,13 @@
+body {
+    background: #3C6255;
+}
+
+.center p {
+    margin       : 0;
+    position     : absolute;
+    text-align   : center;
+    top          : 35%;
+    left         : 50%;
+    -ms-transform: translate(-35%, -50%);
+    transform    : translate(-35%, -50%);
+}
